@@ -1,0 +1,43 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin: 40px;
+    color: #000;
+}
+
+
+.aaa{
+    font-size: 35px;
+    color: #000;
+    margin: 35px;
+    
+}
+
+.boo{
+    background-color: blue;
+    color: #fff;
+    width: 250px;
+    height: 80px;
+    
+}
+
+.boo:hover{
+background-color: darkgreen;
+}
+
+.nnn{
+    font-size: 35px;
+    margin: 35px;
+    color: #000;
+    
+}
